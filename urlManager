@@ -1,0 +1,9 @@
+'urlManager'=>array(
+			'urlFormat'=>'path',
+			'showScriptName'=>false,//隐藏.php
+			//'caseSensitive'=>false,
+			'urlSuffix'=>'.php',
+			'rules'=>array(
+				//没写 
+			),
+		),
